@@ -13,6 +13,7 @@ if(raqamlar == "C"){
   maydon.value = "";
 }else if(raqamlar == "="){
    maydon.value = eval(maydon.value);
+   
 }else{
   maydon.value+=raqamlar ;
   
