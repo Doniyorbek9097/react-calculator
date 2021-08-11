@@ -67,7 +67,7 @@ console.log(e)
 
           <tr>
             <th>0</th>
-            <th>0</th>
+            <th>00</th>
             <th>.</th>
            
           </tr>
